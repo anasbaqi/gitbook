@@ -1,3 +1,4 @@
 # Table of contents
 
-* [First Page](README.md)
+* [Core Docs](README.md)
+* [Product Docs](product-docs.md)
