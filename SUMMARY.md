@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Core Docs](README.md)
-* [Product Docs](product-docs.md)
+* [Documentations](README.md)
+  * [Product Docs](documentations/product-docs.md)
+  * [Core Docs](documentations/core-docs.md)
